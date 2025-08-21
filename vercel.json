@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/chat",
+      "dest": "/api/chat"
+    },
+    {
+      "src": "/api/chat",
+      "dest": "/api/chat"
+    }
+  ]
+}
